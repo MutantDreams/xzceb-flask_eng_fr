@@ -1,5 +1,4 @@
-"""All functions and imports for the translation"""
-
+"""All functions and imports for traslation"""
 import json
 import os
 from ibm_watson import LanguageTranslatorV3
