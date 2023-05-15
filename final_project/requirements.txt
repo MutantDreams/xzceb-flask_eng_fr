@@ -3,3 +3,4 @@ Flask-WTF
 ibm-watson
 python-dotenv
 pyJWT
+ibm-cloud-sdk-core==3.3.6
